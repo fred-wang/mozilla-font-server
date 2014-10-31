@@ -1,0 +1,15 @@
+{
+  "Arab": { "name": "Arabic",     "state": "available", "font": "PakType Tehreer.ttf" },
+  "Beng": { "name": "Bengali",    "state": "available", "font": "lohit_bn.ttf"        },
+  "Deva": { "name": "Devanagari", "state": "available", "font": "lohit_hi.ttf"        },
+  "Ethi": { "name": "Ethiopic",   "state": "available", "font": "AbyssinicaSIL-R.ttf" },
+  "Grek": { "name": "Greek",      "state": "unknown", "font": "Bug 788450" },
+  "Gujr": { "name": "Gujarati",   "state": "available", "font": "lohit_gu.ttf"        },
+  "Guru": { "name": "Gurmukhi",   "state": "available", "font": "lohit_pa.ttf"        },
+  "Khmr": { "name": "Khmer",      "state": "available", "font": "Kh-Battambang.ttf"   },
+  "Knda": { "name": "Kannada",    "state": "unknown", "font": "Bug 631159" },
+  "Laoo": { "name": "Lao",        "state": "available", "font": "Phetsarath_OT.ttf"   },
+  "Mlym": { "name": "Malayalam",  "state": "unknown", "font": "Bug 631159" },
+  "Taml": { "name": "Tamil",      "state": "unknown", "font": "Bug 631159" },
+  "Zmth": { "name": "Mathematical notation", "state": "available", "font": "xits-math.otf" }
+}
